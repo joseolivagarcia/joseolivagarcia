@@ -1,4 +1,6 @@
 ### Hi there 👋
+### I´m José Oliva García, passionate about android app development.
+## Work in progress...
 
 <!--
 **joseolivagarcia/joseolivagarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
